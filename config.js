@@ -50,52 +50,52 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285174242558'
-global.nomorown = '6285174242558'
-global.nomorown1 = '6285156980508'
-global.nomorown2 = '6289512378770'
+global.nomorbot = '6285879728017'
+global.nomorown = '6285879728017'
+global.nomorown1 = '6285879728017'
+global.nomorown2 = '6285879728017'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'gabriel.dim'
-global.namebot = '​ xxgbrl-bot'
+global.author = 'Anwar'
+global.namebot = '​ PRINZ'
 global.wm = '© gabriel.dim'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'gabriel.dim'
+global.wm = 'Anwar'
 global.watermark = wm
-global.wm2 = 'gabriel.dim '
+global.wm2 = 'Anwar '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `xxgbrl-bot`
+global.titlebot = `PRINZ`
 global.stickpack = 'bot'
-global.stickauth = `© xxgbrl`
+global.stickauth = `© PRINZ AYANGNYA ANWAR`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'gabriel.dim'
-global.nameown2 = 'gabriel.dim'
+global.nameown1= 'Anwar'
+global.nameown2 = 'Anwar'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://www.instagram.com/gabriel.dim'
-global.sgh = 'https://github.com/xxgbrl' //github
-global.sgc = '-' //group whatsapp
+global.sig = 'https://www.instagram.com/prinz_011'
+global.sgh = 'https://github.com/Anwar1118' //github
+global.sgc = 'https://chat.whatsapp.com/HWQ8DSOUh0yAz1vLozOiMW' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-' //youtube
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0895 1237 8770'
-global.povo = '0895 1227 8770'
-global.pgopay = '0895 1237 8770'
-global.plinkaja = '0895 1237 8770'
-global.ppulsa = '0851 5698 0508'
-global.ppulsa2 = '0813 5967 2770'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.plinkaja = '-'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
@@ -305,9 +305,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/gabriel.dim"
+global.urlnya = "https://www.instagram.com/prinz_011"
 global.dtc = 'CALL OWNER'
-global.phn = '0851 5698 0805'
+global.phn = '085879728017'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
